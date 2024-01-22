@@ -1,0 +1,12 @@
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/bin/Debug/net7.0/QRCodeApp.Shared.deps.json
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/bin/Debug/net7.0/QRCodeApp.Shared.dll
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/bin/Debug/net7.0/QRCodeApp.Shared.pdb
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/QRCodeApp.Shared.csproj.AssemblyReference.cache
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/QRCodeApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/QRCodeApp.Shared.AssemblyInfoInputs.cache
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/QRCodeApp.Shared.AssemblyInfo.cs
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/QRCodeApp.Shared.csproj.CoreCompileInputs.cache
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/QRCodeApp.Shared.dll
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/refint/QRCodeApp.Shared.dll
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/QRCodeApp.Shared.pdb
+/Users/tugbadokumaci/projects/Argus/QRCodeApp.Shared/obj/Debug/net7.0/ref/QRCodeApp.Shared.dll

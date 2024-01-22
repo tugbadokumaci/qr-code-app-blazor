@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/obj/Debug/net7.0-ios/iossimulator-x64/scopedcss/bundle/QRCodeApp.styles.css",
+      "PackagePath": "staticwebassets/QRCodeApp.styles.css"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/tugbadokumaci/projects/Argus/QRCodeApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0-ios/iossimulator-x64/staticwebassets/msbuild.QRCodeApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0-ios/iossimulator-x64/staticwebassets/msbuild.build.QRCodeApp.props",
+      "PackagePath": "build\\QRCodeApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0-ios/iossimulator-x64/staticwebassets/msbuild.buildMultiTargeting.QRCodeApp.props",
+      "PackagePath": "buildMultiTargeting\\QRCodeApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0-ios/iossimulator-x64/staticwebassets/msbuild.buildTransitive.QRCodeApp.props",
+      "PackagePath": "buildTransitive\\QRCodeApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
